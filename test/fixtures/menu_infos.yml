@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mdate: 2022-04-19
+  lunch_main_puree: MyString
+
+two:
+  mdate: 2022-04-19
+  lunch_main_puree: MyString

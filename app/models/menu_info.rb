@@ -1,0 +1,2 @@
+class MenuInfo < ApplicationRecord
+end
